@@ -20,4 +20,7 @@ An n8n workflow for generating **expressive AI videos** using the D-ID `/express
 ## Setup
 
 1. Import `workflow.json` into n8n  
-2. Cr
+2. Create a D-ID credential in n8n  
+3. Attach the credential to the HTTP Request nodes  
+4. Pick `avatar_id` and `sentiment_id` from `avatars.json`  
+5. Provide input text
