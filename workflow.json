@@ -1,0 +1,112 @@
+{
+  "name": "My workflow",
+  "nodes": [
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [
+        0,
+        0
+      ],
+      "id": "7c0bd229-4fc7-4dbd-9bfe-9183027cd465",
+      "name": "When clicking ‘Execute workflow’"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://api.d-id.com/expressives",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Authorization",
+              "value": "{{DID_API_KEY}}"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "{\n  \"avatar_id\": \"public_meera_casual@avt_z_dOOi\",\n  \"sentiment_id\": \"snt_RMm4vt\",\n  \"script\": {\n    \"type\": \"text\",\n    \"input\": \"Everything that happens in life, happens for a reason!\"\n  }\n}\n",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.4,
+      "position": [
+        208,
+        0
+      ],
+      "id": "c7fbed22-39ab-4cec-b9d5-086a58406eb8",
+      "name": "POST Expression"
+    },
+    {
+      "parameters": {
+        "url": "=https://api.d-id.com/expressives/{{$json[\"exp_jycbW4Uto2B--perWzasB\"]}}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Authorization",
+              "value": "{{DID_API_KEY}}"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.4,
+      "position": [
+        416,
+        0
+      ],
+      "id": "2bb0e497-0743-47e1-8fd7-e8c7d542e066",
+      "name": "GET Expression"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "When clicking ‘Execute workflow’": {
+      "main": [
+        [
+          {
+            "node": "POST Expression",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "POST Expression": {
+      "main": [
+        [
+          {
+            "node": "GET Expression",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate",
+    "availableInMCP": false
+  },
+  "versionId": "0abc38f5-196f-4481-8c2b-35123f19100b",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "a5de57d3a3c0f571f8adc2feb3359fb871b2c5cd95e74e8588efe002d00e816e"
+  },
+  "id": "_k5iDwSKOv0-PF8FT429h",
+  "tags": []
+}

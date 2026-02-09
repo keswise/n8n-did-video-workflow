@@ -1,0 +1,1004 @@
+[
+  {
+    "id": "public_oliver_sport_elegant@avt_VVIQYg",
+    "owner_id": "PUBLIC_D-ID",
+    "name": "Oliver",
+    "is_greenscreen": true,
+    "thumbnail_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/oliver_sport_elegant/avt_VVIQYg/avatar_assets/thumbnail.png",
+    "sentiments": [
+      {
+        "id": "snt_HOmWax",
+        "sentiment": "Friendly",
+        "description": "Ideal for welcoming intros, tutorials, or customer greetings",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/oliver_sport_elegant/avt_VVIQYg/sentiments/snt_HOmWax/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "NosX6I4tMnCxhUBHyftN"
+        }
+      },
+      {
+        "id": "snt_i1kW15",
+        "sentiment": "Empathetic",
+        "description": "Perfect for sensitive topics, support messages, or coaching",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/oliver_sport_elegant/avt_VVIQYg/sentiments/snt_i1kW15/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "cK8sSCqTO9pn6AFjnQrA"
+        }
+      },
+      {
+        "id": "snt_pQWg4p",
+        "sentiment": "Excited",
+        "description": "Best for promotions, celebrations, or upbeat content",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/oliver_sport_elegant/avt_VVIQYg/sentiments/snt_pQWg4p/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "vM9vXdXCnr9QleHqTdee"
+        }
+      },
+      {
+        "id": "snt_JJVjbM",
+        "sentiment": "Frustrated",
+        "description": "Perfect for expressing dissatisfaction, anger or criticism",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/oliver_sport_elegant/avt_VVIQYg/sentiments/snt_JJVjbM/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "Bx8jkdOyEeDJc3bJnMdg"
+        }
+      },
+      {
+        "id": "snt_gO1IGM",
+        "sentiment": "Professional",
+        "description": "Balanced tone for corporate, educational, or straightforward videos",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/oliver_sport_elegant/avt_VVIQYg/sentiments/snt_gO1IGM/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "LNXzTxWEpbNsGJ9iv5DR"
+        }
+      }
+    ]
+  },
+  {
+    "id": "public_oliver_elegant@avt_kqSs5S",
+    "owner_id": "PUBLIC_D-ID",
+    "name": "Oliver",
+    "is_greenscreen": true,
+    "thumbnail_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/oliver_elegant/avt_kqSs5S/avatar_assets/thumbnail.png",
+    "sentiments": [
+      {
+        "id": "snt_N1CrDf",
+        "sentiment": "Professional",
+        "description": "Balanced tone for corporate, educational, or straightforward videos",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/oliver_elegant/avt_kqSs5S/sentiments/snt_N1CrDf/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "LNXzTxWEpbNsGJ9iv5DR"
+        }
+      },
+      {
+        "id": "snt_XgUt6B",
+        "sentiment": "Friendly",
+        "description": "Ideal for welcoming intros, tutorials, or customer greetings",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/oliver_elegant/avt_kqSs5S/sentiments/snt_XgUt6B/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "NosX6I4tMnCxhUBHyftN"
+        }
+      },
+      {
+        "id": "snt_i6aMyC",
+        "sentiment": "Excited",
+        "description": "Best for promotions, celebrations, or upbeat content",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/oliver_elegant/avt_kqSs5S/sentiments/snt_i6aMyC/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "vM9vXdXCnr9QleHqTdee"
+        }
+      },
+      {
+        "id": "snt_XjbJxB",
+        "sentiment": "Frustrated",
+        "description": "Perfect for expressing dissatisfaction, anger or criticism",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/oliver_elegant/avt_kqSs5S/sentiments/snt_XjbJxB/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "Bx8jkdOyEeDJc3bJnMdg"
+        }
+      },
+      {
+        "id": "snt_izEAos",
+        "sentiment": "Empathetic",
+        "description": "Perfect for sensitive topics, support messages, or coaching",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/oliver_elegant/avt_kqSs5S/sentiments/snt_izEAos/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "cK8sSCqTO9pn6AFjnQrA"
+        }
+      }
+    ]
+  },
+  {
+    "id": "public_claire_sport_elegant@avt_aTUK9_",
+    "owner_id": "PUBLIC_D-ID",
+    "name": "Claire",
+    "is_greenscreen": true,
+    "thumbnail_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/claire_sport_elegant/avt_aTUK9_/avatar_assets/thumbnail.png",
+    "sentiments": [
+      {
+        "id": "snt_GcsiPo",
+        "sentiment": "Friendly",
+        "description": "Ideal for welcoming intros, tutorials, or customer greetings",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/claire_sport_elegant/avt_aTUK9_/sentiments/snt_GcsiPo/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "wPTG0YqVStH1KK3nhvAt"
+        }
+      },
+      {
+        "id": "snt_1MYHzq",
+        "sentiment": "Professional",
+        "description": "Balanced tone for corporate, educational, or straightforward videos",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/claire_sport_elegant/avt_aTUK9_/sentiments/snt_1MYHzq/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "fOYJ0xpVgVXGFEZIpQEG"
+        }
+      },
+      {
+        "id": "snt_e6Y2RQ",
+        "sentiment": "Excited",
+        "description": "Best for promotions, celebrations, or upbeat content",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/claire_sport_elegant/avt_aTUK9_/sentiments/snt_e6Y2RQ/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "6cSSEM2BGC2NPyVIRgOO"
+        }
+      },
+      {
+        "id": "snt_8iEkqB",
+        "sentiment": "Empathetic",
+        "description": "Perfect for sensitive topics, support messages, or coaching",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/claire_sport_elegant/avt_aTUK9_/sentiments/snt_8iEkqB/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "0vWYMEd6POuWyMpmvmXC"
+        }
+      },
+      {
+        "id": "snt_E98Y1j",
+        "sentiment": "Frustrated",
+        "description": "Perfect for expressing dissatisfaction, anger or criticism",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/claire_sport_elegant/avt_aTUK9_/sentiments/snt_E98Y1j/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "IUJro3C7BFY3qCdrpbU8"
+        }
+      }
+    ]
+  },
+  {
+    "id": "public_adrian_sport_elegant@avt_oqXJJt",
+    "owner_id": "PUBLIC_D-ID",
+    "name": "Adrian",
+    "is_greenscreen": true,
+    "thumbnail_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/adrian_sport_elegant/avt_oqXJJt/avatar_assets/thumbnail.png",
+    "sentiments": [
+      {
+        "id": "snt_ktnbIU",
+        "sentiment": "Empathetic",
+        "description": "Perfect for sensitive topics, support messages, or coaching",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/adrian_sport_elegant/avt_oqXJJt/sentiments/snt_ktnbIU/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "oF76y5RafTmiIJHsWlIp"
+        }
+      },
+      {
+        "id": "snt_Q71wg9",
+        "sentiment": "Friendly",
+        "description": "Ideal for welcoming intros, tutorials, or customer greetings",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/adrian_sport_elegant/avt_oqXJJt/sentiments/snt_Q71wg9/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "kBFp5x5Cr0eifZMpJWvf"
+        }
+      },
+      {
+        "id": "snt_AhBMnx",
+        "sentiment": "Excited",
+        "description": "Best for promotions, celebrations, or upbeat content",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/adrian_sport_elegant/avt_oqXJJt/sentiments/snt_AhBMnx/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "Fjp3ocwn97P8AaKsmAfF"
+        }
+      }
+    ]
+  },
+  {
+    "id": "public_meera_casual@avt_z_dOOi",
+    "owner_id": "PUBLIC_D-ID",
+    "name": "Meera",
+    "is_greenscreen": true,
+    "thumbnail_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/meera_casual/avt_z_dOOi/avatar_assets/thumbnail.png",
+    "sentiments": [
+      {
+        "id": "snt_HcMzOa",
+        "sentiment": "Professional",
+        "description": "Balanced tone for corporate, educational, or straightforward videos",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/meera_casual/avt_z_dOOi/sentiments/snt_HcMzOa/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "ax9Pttrw2aEQNDn4xmu5"
+        }
+      },
+      {
+        "id": "snt_RMm4vt",
+        "sentiment": "Friendly",
+        "description": "Ideal for welcoming intros, tutorials, or customer greetings",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/meera_casual/avt_z_dOOi/sentiments/snt_RMm4vt/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "aoAxRQacsMRcTbMRfKrJ"
+        }
+      },
+      {
+        "id": "snt_aLOwaB",
+        "sentiment": "Excited",
+        "description": "Best for promotions, celebrations, or upbeat content",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/meera_casual/avt_z_dOOi/sentiments/snt_aLOwaB/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "9Q05GmaNyL03d6VOMS52"
+        }
+      },
+      {
+        "id": "snt_f6sBU3",
+        "sentiment": "Empathetic",
+        "description": "Perfect for sensitive topics, support messages, or coaching",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/meera_casual/avt_z_dOOi/sentiments/snt_f6sBU3/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "a1XW6bspPi7gQ1FIPJj9"
+        }
+      },
+      {
+        "id": "snt_D2PcCV",
+        "sentiment": "Frustrated",
+        "description": "Perfect for expressing dissatisfaction, anger or criticism",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/meera_casual/avt_z_dOOi/sentiments/snt_D2PcCV/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "9d9UXJHxm3xNQCnwKr2T"
+        }
+      }
+    ]
+  },
+  {
+    "id": "public_amber_sport_elegant@avt_s8NZJC",
+    "owner_id": "PUBLIC_D-ID",
+    "name": "Amber",
+    "is_greenscreen": true,
+    "thumbnail_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/amber_sport_elegant/avt_s8NZJC/avatar_assets/thumbnail.png",
+    "sentiments": [
+      {
+        "id": "snt_LgJ81a",
+        "sentiment": "Frustrated",
+        "description": "Perfect for expressing dissatisfaction, anger or criticism",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/amber_sport_elegant/avt_s8NZJC/sentiments/snt_LgJ81a/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "yXHCYm8TjP0J1Lk4jICl"
+        }
+      },
+      {
+        "id": "snt_YtG11N",
+        "sentiment": "Empathetic",
+        "description": "Perfect for sensitive topics, support messages, or coaching",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/amber_sport_elegant/avt_s8NZJC/sentiments/snt_YtG11N/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "u2RHZK6vLmDmrMKaPtH7"
+        }
+      },
+      {
+        "id": "snt_3s8wM3",
+        "sentiment": "Excited",
+        "description": "Best for promotions, celebrations, or upbeat content",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/amber_sport_elegant/avt_s8NZJC/sentiments/snt_3s8wM3/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "OH8AAMXnKBz4K26Zw4hi"
+        }
+      },
+      {
+        "id": "snt_fKj8vX",
+        "sentiment": "Friendly",
+        "description": "Ideal for welcoming intros, tutorials, or customer greetings",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/amber_sport_elegant/avt_s8NZJC/sentiments/snt_fKj8vX/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "rdZFk36Jlpt1r4DItath"
+        }
+      },
+      {
+        "id": "snt_sOGzFx",
+        "sentiment": "Professional",
+        "description": "Balanced tone for corporate, educational, or straightforward videos",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/amber_sport_elegant/avt_s8NZJC/sentiments/snt_sOGzFx/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "527XyMHDcWvgr6vdW0wz"
+        }
+      }
+    ]
+  },
+  {
+    "id": "public_mia_sport_elegant@avt_r9EHaB",
+    "owner_id": "PUBLIC_D-ID",
+    "name": "Mia",
+    "is_greenscreen": true,
+    "thumbnail_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/mia_sport_elegant/avt_r9EHaB/avatar_assets/thumbnail.png",
+    "sentiments": [
+      {
+        "id": "snt_Xehe4k",
+        "sentiment": "Empathetic",
+        "description": "Perfect for sensitive topics, support messages, or coaching",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/mia_sport_elegant/avt_r9EHaB/sentiments/snt_Xehe4k/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "EamutaXPVKwW8zExNGsA"
+        }
+      },
+      {
+        "id": "snt_iTjusd",
+        "sentiment": "Professional",
+        "description": "Balanced tone for corporate, educational, or straightforward videos",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/mia_sport_elegant/avt_r9EHaB/sentiments/snt_iTjusd/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "tff2TYsZCU7UJE2BKvQj"
+        }
+      },
+      {
+        "id": "snt_Q0R6BV",
+        "sentiment": "Excited",
+        "description": "Best for promotions, celebrations, or upbeat content",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/mia_sport_elegant/avt_r9EHaB/sentiments/snt_Q0R6BV/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "er0e7qvyUaWjS6pMfIZX"
+        }
+      },
+      {
+        "id": "snt_4Fgz52",
+        "sentiment": "Friendly",
+        "description": "Ideal for welcoming intros, tutorials, or customer greetings",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/mia_sport_elegant/avt_r9EHaB/sentiments/snt_4Fgz52/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "yV421IFuyZtM5nbmHxOl"
+        }
+      },
+      {
+        "id": "snt_2KR7c2",
+        "sentiment": "Frustrated",
+        "description": "Perfect for expressing dissatisfaction, anger or criticism",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/mia_sport_elegant/avt_r9EHaB/sentiments/snt_2KR7c2/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "gWg0FCtpiDFZ4QfTWKYO"
+        }
+      }
+    ]
+  },
+  {
+    "id": "public_mia_elegant@avt_TJ0Tq5",
+    "owner_id": "PUBLIC_D-ID",
+    "name": "Mia",
+    "is_greenscreen": true,
+    "thumbnail_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/mia_elegant/avt_TJ0Tq5/avatar_assets/thumbnail.png",
+    "sentiments": [
+      {
+        "id": "snt_CQFGFd",
+        "sentiment": "Empathetic",
+        "description": "Perfect for sensitive topics, support messages, or coaching",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/mia_elegant/avt_TJ0Tq5/sentiments/snt_CQFGFd/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "EamutaXPVKwW8zExNGsA"
+        }
+      },
+      {
+        "id": "snt_ci0aSY",
+        "sentiment": "Friendly",
+        "description": "Ideal for welcoming intros, tutorials, or customer greetings",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/mia_elegant/avt_TJ0Tq5/sentiments/snt_ci0aSY/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "yV421IFuyZtM5nbmHxOl"
+        }
+      },
+      {
+        "id": "snt_0NinZl",
+        "sentiment": "Excited",
+        "description": "Best for promotions, celebrations, or upbeat content",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/mia_elegant/avt_TJ0Tq5/sentiments/snt_0NinZl/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "er0e7qvyUaWjS6pMfIZX"
+        }
+      },
+      {
+        "id": "snt_ZeI7Rv",
+        "sentiment": "Professional",
+        "description": "Balanced tone for corporate, educational, or straightforward videos",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/mia_elegant/avt_TJ0Tq5/sentiments/snt_ZeI7Rv/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "tff2TYsZCU7UJE2BKvQj"
+        }
+      },
+      {
+        "id": "snt_yp4Imd",
+        "sentiment": "Frustrated",
+        "description": "Perfect for expressing dissatisfaction, anger or criticism",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/mia_elegant/avt_TJ0Tq5/sentiments/snt_yp4Imd/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "gWg0FCtpiDFZ4QfTWKYO"
+        }
+      }
+    ]
+  },
+  {
+    "id": "public_mia_sport@avt_cQ7ccr",
+    "owner_id": "PUBLIC_D-ID",
+    "name": "Mia",
+    "is_greenscreen": true,
+    "thumbnail_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/mia_sport/avt_cQ7ccr/avatar_assets/thumbnail.png",
+    "sentiments": [
+      {
+        "id": "snt_z4DqiX",
+        "sentiment": "Friendly",
+        "description": "Ideal for welcoming intros, tutorials, or customer greetings",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/mia_sport/avt_cQ7ccr/sentiments/snt_z4DqiX/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "yV421IFuyZtM5nbmHxOl"
+        }
+      },
+      {
+        "id": "snt_cxM4Qe",
+        "sentiment": "Professional",
+        "description": "Balanced tone for corporate, educational, or straightforward videos",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/mia_sport/avt_cQ7ccr/sentiments/snt_cxM4Qe/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "tff2TYsZCU7UJE2BKvQj"
+        }
+      },
+      {
+        "id": "snt_fwrdDZ",
+        "sentiment": "Frustrated",
+        "description": "Perfect for expressing dissatisfaction, anger or criticism",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/mia_sport/avt_cQ7ccr/sentiments/snt_fwrdDZ/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "gWg0FCtpiDFZ4QfTWKYO"
+        }
+      },
+      {
+        "id": "snt_pn7TP7",
+        "sentiment": "Excited",
+        "description": "Best for promotions, celebrations, or upbeat content",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/mia_sport/avt_cQ7ccr/sentiments/snt_pn7TP7/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "er0e7qvyUaWjS6pMfIZX"
+        }
+      },
+      {
+        "id": "snt_G81ydu",
+        "sentiment": "Empathetic",
+        "description": "Perfect for sensitive topics, support messages, or coaching",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/mia_sport/avt_cQ7ccr/sentiments/snt_G81ydu/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "EamutaXPVKwW8zExNGsA"
+        }
+      }
+    ]
+  },
+  {
+    "id": "public_arthur_casual@avt_t0RdDs",
+    "owner_id": "PUBLIC_D-ID",
+    "name": "Arthur",
+    "is_greenscreen": true,
+    "thumbnail_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/arthur_casual/avt_t0RdDs/avatar_assets/thumbnail.png",
+    "sentiments": [
+      {
+        "id": "snt_rKv4BV",
+        "sentiment": "Frustrated",
+        "description": "Perfect for expressing dissatisfaction, anger or criticism",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/arthur_casual/avt_t0RdDs/sentiments/snt_rKv4BV/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "yFMqid9Kxj3McLDnhOSJ"
+        }
+      },
+      {
+        "id": "snt_UovsE0",
+        "sentiment": "Empathetic",
+        "description": "Perfect for sensitive topics, support messages, or coaching",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/arthur_casual/avt_t0RdDs/sentiments/snt_UovsE0/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "2K4jmwhpXNDN2Jeko6Tj"
+        }
+      },
+      {
+        "id": "snt_380tEK",
+        "sentiment": "Friendly",
+        "description": "Ideal for welcoming intros, tutorials, or customer greetings",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/arthur_casual/avt_t0RdDs/sentiments/snt_380tEK/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "FxlyK9B501ns1HlZgi2y"
+        }
+      },
+      {
+        "id": "snt_vsYZXk",
+        "sentiment": "Professional",
+        "description": "Balanced tone for corporate, educational, or straightforward videos",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/arthur_casual/avt_t0RdDs/sentiments/snt_vsYZXk/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "FN8ZAO0gN856TnQdex6l"
+        }
+      },
+      {
+        "id": "snt_J8gd9r",
+        "sentiment": "Excited",
+        "description": "Best for promotions, celebrations, or upbeat content",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/arthur_casual/avt_t0RdDs/sentiments/snt_J8gd9r/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "3GiSrwFbUdYVzwVyixJm"
+        }
+      }
+    ]
+  },
+  {
+    "id": "public_arthur_sport_elegant@avt_BaVAVg",
+    "owner_id": "PUBLIC_D-ID",
+    "name": "Arthur",
+    "is_greenscreen": true,
+    "thumbnail_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/arthur_sport_elegant/avt_BaVAVg/avatar_assets/thumbnail.png",
+    "sentiments": [
+      {
+        "id": "snt_gCIwy8",
+        "sentiment": "Frustrated",
+        "description": "Perfect for expressing dissatisfaction, anger or criticism",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/arthur_sport_elegant/avt_BaVAVg/sentiments/snt_gCIwy8/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "yFMqid9Kxj3McLDnhOSJ"
+        }
+      },
+      {
+        "id": "snt_jxi8uK",
+        "sentiment": "Professional",
+        "description": "Balanced tone for corporate, educational, or straightforward videos",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/arthur_sport_elegant/avt_BaVAVg/sentiments/snt_jxi8uK/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "FN8ZAO0gN856TnQdex6l"
+        }
+      },
+      {
+        "id": "snt_qjcdY4",
+        "sentiment": "Friendly",
+        "description": "Ideal for welcoming intros, tutorials, or customer greetings",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/arthur_sport_elegant/avt_BaVAVg/sentiments/snt_qjcdY4/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "FxlyK9B501ns1HlZgi2y"
+        }
+      },
+      {
+        "id": "snt_jaGGAw",
+        "sentiment": "Excited",
+        "description": "Best for promotions, celebrations, or upbeat content",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/arthur_sport_elegant/avt_BaVAVg/sentiments/snt_jaGGAw/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "3GiSrwFbUdYVzwVyixJm"
+        }
+      },
+      {
+        "id": "snt_0VzeJy",
+        "sentiment": "Empathetic",
+        "description": "Perfect for sensitive topics, support messages, or coaching",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/arthur_sport_elegant/avt_BaVAVg/sentiments/snt_0VzeJy/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "2K4jmwhpXNDN2Jeko6Tj"
+        }
+      }
+    ]
+  },
+  {
+    "id": "public_arthur_elegant@avt_ID2OaC",
+    "owner_id": "PUBLIC_D-ID",
+    "name": "Arthur",
+    "is_greenscreen": true,
+    "thumbnail_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/arthur_elegant/avt_ID2OaC/avatar_assets/thumbnail.png",
+    "sentiments": [
+      {
+        "id": "snt_f12yCi",
+        "sentiment": "Frustrated",
+        "description": "Perfect for expressing dissatisfaction, anger or criticism",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/arthur_elegant/avt_ID2OaC/sentiments/snt_f12yCi/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "yFMqid9Kxj3McLDnhOSJ"
+        }
+      },
+      {
+        "id": "snt_m74lFW",
+        "sentiment": "Excited",
+        "description": "Best for promotions, celebrations, or upbeat content",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/arthur_elegant/avt_ID2OaC/sentiments/snt_m74lFW/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "3GiSrwFbUdYVzwVyixJm"
+        }
+      },
+      {
+        "id": "snt_829clH",
+        "sentiment": "Friendly",
+        "description": "Ideal for welcoming intros, tutorials, or customer greetings",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/arthur_elegant/avt_ID2OaC/sentiments/snt_829clH/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "FxlyK9B501ns1HlZgi2y"
+        }
+      },
+      {
+        "id": "snt_7S61av",
+        "sentiment": "Professional",
+        "description": "Balanced tone for corporate, educational, or straightforward videos",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/arthur_elegant/avt_ID2OaC/sentiments/snt_7S61av/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "FN8ZAO0gN856TnQdex6l"
+        }
+      },
+      {
+        "id": "snt_YGk3HL",
+        "sentiment": "Empathetic",
+        "description": "Perfect for sensitive topics, support messages, or coaching",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/arthur_elegant/avt_ID2OaC/sentiments/snt_YGk3HL/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "2K4jmwhpXNDN2Jeko6Tj"
+        }
+      }
+    ]
+  },
+  {
+    "id": "public_gabriela_sport_elegant@avt_UJCJIg",
+    "owner_id": "PUBLIC_D-ID",
+    "name": "Gabriela",
+    "is_greenscreen": true,
+    "thumbnail_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/gabriela_sport_elegant/avt_UJCJIg/avatar_assets/thumbnail.png",
+    "sentiments": [
+      {
+        "id": "snt_nh8p1l",
+        "sentiment": "Professional",
+        "description": "Balanced tone for corporate, educational, or straightforward videos",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/gabriela_sport_elegant/avt_UJCJIg/sentiments/snt_nh8p1l/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "oUzyc8nKLNjfmvRF0KDf"
+        }
+      },
+      {
+        "id": "snt_cK8BAz",
+        "sentiment": "Friendly",
+        "description": "Ideal for welcoming intros, tutorials, or customer greetings",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/gabriela_sport_elegant/avt_UJCJIg/sentiments/snt_cK8BAz/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "QE6edMDUhNJ2Lrpthk0U"
+        }
+      },
+      {
+        "id": "snt_uiF2WA",
+        "sentiment": "Frustrated",
+        "description": "Perfect for expressing dissatisfaction, anger or criticism",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/gabriela_sport_elegant/avt_UJCJIg/sentiments/snt_uiF2WA/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "GZkAyoIJIP4AKbkwrWd7"
+        }
+      },
+      {
+        "id": "snt_asTRuB",
+        "sentiment": "Empathetic",
+        "description": "Perfect for sensitive topics, support messages, or coaching",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/gabriela_sport_elegant/avt_UJCJIg/sentiments/snt_asTRuB/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "ihKSVW4n7EaT8L8NzXHx"
+        }
+      }
+    ]
+  },
+  {
+    "id": "public_gabriela_elegant@avt_fcB164",
+    "owner_id": "PUBLIC_D-ID",
+    "name": "Gabriela",
+    "is_greenscreen": true,
+    "thumbnail_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/gabriela_elegant/avt_fcB164/avatar_assets/thumbnail.png",
+    "sentiments": [
+      {
+        "id": "snt_T2Q709",
+        "sentiment": "Excited",
+        "description": "Best for promotions, celebrations, or upbeat content",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/gabriela_elegant/avt_fcB164/sentiments/snt_T2Q709/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "0qrxAxBGunTDlhJ73v05"
+        }
+      },
+      {
+        "id": "snt_cG6xhA",
+        "sentiment": "Friendly",
+        "description": "Ideal for welcoming intros, tutorials, or customer greetings",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/gabriela_elegant/avt_fcB164/sentiments/snt_cG6xhA/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "QE6edMDUhNJ2Lrpthk0U"
+        }
+      },
+      {
+        "id": "snt_TYWAOK",
+        "sentiment": "Professional",
+        "description": "Balanced tone for corporate, educational, or straightforward videos",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/gabriela_elegant/avt_fcB164/sentiments/snt_TYWAOK/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "oUzyc8nKLNjfmvRF0KDf"
+        }
+      },
+      {
+        "id": "snt_HANDJE",
+        "sentiment": "Frustrated",
+        "description": "Perfect for expressing dissatisfaction, anger or criticism",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/gabriela_elegant/avt_fcB164/sentiments/snt_HANDJE/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "GZkAyoIJIP4AKbkwrWd7"
+        }
+      },
+      {
+        "id": "snt_HoheYO",
+        "sentiment": "Empathetic",
+        "description": "Perfect for sensitive topics, support messages, or coaching",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/gabriela_elegant/avt_fcB164/sentiments/snt_HoheYO/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "ihKSVW4n7EaT8L8NzXHx"
+        }
+      }
+    ]
+  },
+  {
+    "id": "public_adam_casual@avt_5P6NIv",
+    "owner_id": "PUBLIC_D-ID",
+    "name": "Adam",
+    "is_greenscreen": true,
+    "thumbnail_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/adam_casual/avt_5P6NIv/avatar_assets/thumbnail.png",
+    "sentiments": [
+      {
+        "id": "snt_JCMfCp",
+        "sentiment": "Friendly",
+        "description": "Ideal for welcoming intros, tutorials, or customer greetings",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/adam_casual/avt_5P6NIv/sentiments/snt_JCMfCp/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "g6qQZxSpy5joPD4FHZVb"
+        }
+      },
+      {
+        "id": "snt_g3A4mK",
+        "sentiment": "Professional",
+        "description": "Balanced tone for corporate, educational, or straightforward videos",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/adam_casual/avt_5P6NIv/sentiments/snt_g3A4mK/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "H1ni0P07wnzyewOjkpdA"
+        }
+      },
+      {
+        "id": "snt_hTM8gz",
+        "sentiment": "Empathetic",
+        "description": "Perfect for sensitive topics, support messages, or coaching",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/adam_casual/avt_5P6NIv/sentiments/snt_hTM8gz/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "PB4WJm4ALVOboZEHJRBj"
+        }
+      },
+      {
+        "id": "snt_49NyKJ",
+        "sentiment": "Frustrated",
+        "description": "Perfect for expressing dissatisfaction, anger or criticism",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/adam_casual/avt_5P6NIv/sentiments/snt_49NyKJ/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "uRWRBLy4JUUtagzc8ijz"
+        }
+      }
+    ]
+  },
+  {
+    "id": "public_adam_elegant@avt_t8BndT",
+    "owner_id": "PUBLIC_D-ID",
+    "name": "Adam",
+    "is_greenscreen": true,
+    "thumbnail_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/adam_elegant/avt_t8BndT/avatar_assets/thumbnail.png",
+    "sentiments": [
+      {
+        "id": "snt_zTVT5f",
+        "sentiment": "Empathetic",
+        "description": "Perfect for sensitive topics, support messages, or coaching",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/adam_elegant/avt_t8BndT/sentiments/snt_zTVT5f/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "PB4WJm4ALVOboZEHJRBj"
+        }
+      },
+      {
+        "id": "snt_3FaN8x",
+        "sentiment": "Frustrated",
+        "description": "Perfect for expressing dissatisfaction, anger or criticism",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/adam_elegant/avt_t8BndT/sentiments/snt_3FaN8x/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "uRWRBLy4JUUtagzc8ijz"
+        }
+      },
+      {
+        "id": "snt_dLh6y1",
+        "sentiment": "Professional",
+        "description": "Balanced tone for corporate, educational, or straightforward videos",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/adam_elegant/avt_t8BndT/sentiments/snt_dLh6y1/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "H1ni0P07wnzyewOjkpdA"
+        }
+      },
+      {
+        "id": "snt_OHSKz6",
+        "sentiment": "Excited",
+        "description": "Best for promotions, celebrations, or upbeat content",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/adam_elegant/avt_t8BndT/sentiments/snt_OHSKz6/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "yAmXCdSBz8ITzfrwQXCb"
+        }
+      },
+      {
+        "id": "snt_pHDEQe",
+        "sentiment": "Friendly",
+        "description": "Ideal for welcoming intros, tutorials, or customer greetings",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/adam_elegant/avt_t8BndT/sentiments/snt_pHDEQe/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "g6qQZxSpy5joPD4FHZVb"
+        }
+      }
+    ]
+  },
+  {
+    "id": "public_leo_casual@avt_0m0M2S",
+    "owner_id": "PUBLIC_D-ID",
+    "name": "Leo",
+    "is_greenscreen": true,
+    "thumbnail_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/leo_casual/avt_0m0M2S/avatar_assets/thumbnail.png",
+    "sentiments": [
+      {
+        "id": "snt_4ZDPnX",
+        "sentiment": "Professional",
+        "description": "Balanced tone for corporate, educational, or straightforward videos",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/leo_casual/avt_0m0M2S/sentiments/snt_4ZDPnX/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "mM9B8iPhy3cxPB6RaDZr"
+        }
+      },
+      {
+        "id": "snt_bbth4d",
+        "sentiment": "Frustrated",
+        "description": "Perfect for expressing dissatisfaction, anger or criticism",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/leo_casual/avt_0m0M2S/sentiments/snt_bbth4d/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "drxP37FjReznRUgXok7z"
+        }
+      },
+      {
+        "id": "snt_MYryVo",
+        "sentiment": "Empathetic",
+        "description": "Perfect for sensitive topics, support messages, or coaching",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/leo_casual/avt_0m0M2S/sentiments/snt_MYryVo/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "cQc5qfEKZbDSxxY381qA"
+        }
+      }
+    ]
+  },
+  {
+    "id": "public_leo_elegant@avt_nRoF2U",
+    "owner_id": "PUBLIC_D-ID",
+    "name": "Leo",
+    "is_greenscreen": true,
+    "thumbnail_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/leo_elegant/avt_nRoF2U/avatar_assets/thumbnail.png",
+    "sentiments": [
+      {
+        "id": "snt_MwH2Sv",
+        "sentiment": "Professional",
+        "description": "Balanced tone for corporate, educational, or straightforward videos",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/leo_elegant/avt_nRoF2U/sentiments/snt_MwH2Sv/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "mM9B8iPhy3cxPB6RaDZr"
+        }
+      },
+      {
+        "id": "snt_3Zl1ZP",
+        "sentiment": "Excited",
+        "description": "Best for promotions, celebrations, or upbeat content",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/leo_elegant/avt_nRoF2U/sentiments/snt_3Zl1ZP/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "UAxNBRvZXzbj8oyGi7Vq"
+        }
+      },
+      {
+        "id": "snt_i99x4U",
+        "sentiment": "Frustrated",
+        "description": "Perfect for expressing dissatisfaction, anger or criticism",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/leo_elegant/avt_nRoF2U/sentiments/snt_i99x4U/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "drxP37FjReznRUgXok7z"
+        }
+      },
+      {
+        "id": "snt_Q0FqBR",
+        "sentiment": "Empathetic",
+        "description": "Perfect for sensitive topics, support messages, or coaching",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/leo_elegant/avt_nRoF2U/sentiments/snt_Q0FqBR/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "cQc5qfEKZbDSxxY381qA"
+        }
+      },
+      {
+        "id": "snt_D30wnO",
+        "sentiment": "Friendly",
+        "description": "Ideal for welcoming intros, tutorials, or customer greetings",
+        "preview_url": "https://expressive-avatars.d-id.com/PUBLIC_D-ID/leo_elegant/avt_nRoF2U/sentiments/snt_D30wnO/sentiment_assets/preview.mp4",
+        "voice": {
+          "type": "elevenlabs",
+          "voice_id": "7sY53RNP4T0hBew4NI7X"
+        }
+      }
+    ]
+  }
+]
